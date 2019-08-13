@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">uts_mariaulpah_10116046</string>
+    <string name="title_activity_menu__kontak">Menu_Kontak</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_kontak_list">kontak_list</string>
+    <string name="title_activity_menu_list">menu_list</string>
+    <string name="title_activity_menu__utama">Menu_Utama</string>
+    <string name="slide_1_title">Tambah Kontak</string>
+    <string name="slide_1_desc">Silahkan Tambahkan Kontak Teman mu disini ^-^ </string>
+    <string name="slide_2_title">Update Kontak</string>
+    <string name="slide_2_desc">Lakukan update kontak disini</string>
+    <string name="slide_3_title">Hapus Kontak</string>
+    <string name="slide_3_desc"> Silahkan hapus kontak</string>
+    <string name="title_activity_login">Sign in or create an account</string>
+    <string name="title_activity_main">Dashboard</string>
+    <string name='instagram'>Instagram</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_repeat">Password (Diulang)</string>
+    <string name="prompt_name">Nama Lengkap</string>
+    <string name="prompt_phone">Nomor Telepon</string>
+    <string name="action_sign_in">Masuk atau Mendaftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="action_register">Buat akun baru?</string>
+    <string name="action_have_account">Sudah memiliki akun?</string>
+    <string name="action_submit">Kirim</string>
+    <string name="error_invalid_email">Alamat email tidak valid</string>
+    <string name="error_unavailable_email">Email sudah pernah terdaftar</string>
+    <string name="error_invalid_password">Password tidak valid</string>
+    <string name="error_invalid_password_repeat">Ulangi password dengan benar</string>
+    <string name="error_incorrect_password">Password yang Anda masukkan salah</string>
+    <string name="error_old_password">Password lama salah</string>
+    <string name="error_field_required">Kolom ini tidak boleh dikosongi</string>
+    <string name="permission_rationale">"Izin kontak diperlukan untuk menyediakan penyelesaian email."</string>
+    <string name="login_header_information">Isilah form ini dengan akun login anda,
+        atau buat akun terlebih dahulu untuk dapat menggunakan aplikasi ini.</string>
+
+    <string name="txt_welcome">Selamat datang</string>
+
+    <string name="btn_logout">Logout</string>
+    <string name="title_activity_menu_navbar">Menu_navbar</string>
+    <string name="start">start</string>
+    <string name="next">next</string>
+    <string name="title_activity_test">test</string>
+</resources>
